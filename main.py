@@ -1,7 +1,5 @@
 '''
-Source code file of Library Management file
-@author1: ashutosh 
-@author2: alok   
+Source code file of Library Management file 
 '''
 # importing  library files
 from tkinter import *
